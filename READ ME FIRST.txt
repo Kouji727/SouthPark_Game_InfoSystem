@@ -1,0 +1,17 @@
+
+Please install the "south park.ttf" font in the folder
+
+Move the "SouthPark_InfoSystem" folder in your Local Disk C:
+
+Then proceed to type this in cmd
+
+cd C:\SouthPark_InfoSystem
+
+javac Main.java
+
+java Main.java
+
+
+
+
+VOILA!!!
